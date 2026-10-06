@@ -61,9 +61,9 @@ unzip -o de_mirage.zip -d <精简树>
 也可以使用主仓库一键脚本 / CLI 的 prebuilt 模式，自动完成核心包 + 地图包 + 功能包拼装：
 
 ```bash
-# 一键脚本（Linux）
-CS2_MODE=prebuilt CS2_MAPS=de_dust2,de_mirage \
-  curl -fsSL https://raw.githubusercontent.com/cyqmq/cs2-slim-replica/main/scripts/get-cs2slim.sh | bash
+# 一键脚本（Linux，先 export 再 curl|bash）
+export CS2_MODE=prebuilt CS2_MAPS=de_dust2,de_mirage
+curl -fsSL https://raw.githubusercontent.com/cyqmq/cs2-slim-replica/main/scripts/get-cs2slim.sh | bash
 
 # CLI 等价
 python cs2slim.py prebuilt --config slim.yaml
