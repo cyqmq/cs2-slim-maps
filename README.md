@@ -9,8 +9,8 @@ CS2 Slim 服务端的**地图组件仓库**（选配组件）。
 | 地图 | 组件目录 | filelist 片段 | 预构建包 |
 |------|----------|---------------|----------|
 | Dust II | `de_dust2`（核心，主仓库必含） | `game/csgo/maps/de_dust2.vpk` | — |
-| Mirage | `de_mirage` | `game/csgo/maps/de_mirage.vpk` | 可选 |
-| Inferno | `de_inferno` | `game/csgo/maps/de_inferno.vpk` | 可选 |
+| Mirage | `de_mirage` | `game/csgo/maps/de_mirage.vpk` | [de_mirage.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_mirage.zip) |
+| Inferno | `de_inferno` | `game/csgo/maps/de_inferno.vpk` | [de_inferno.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_inferno.zip) |
 | Ancient | `de_ancient` | `game/csgo/maps/de_ancient.vpk` | — |
 | Anubis | `de_anubis` | `game/csgo/maps/de_anubis.vpk` | — |
 | Cache | `de_cache` | `game/csgo/maps/de_cache.vpk` | — |
