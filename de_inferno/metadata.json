@@ -1,0 +1,10 @@
+﻿{
+    "name":  "Inferno",
+    "updated":  "2026-10-06",
+    "size_mb":  250,
+    "required":  false,
+    "filelist":  [
+                     "game/csgo/maps/de_inferno.vpk"
+                 ],
+    "depot":  2347770
+}

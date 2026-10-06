@@ -1,0 +1,4 @@
+﻿# de_inferno 地图组件 - filelist 片段
+# 追加到核心 filelist_2347770.txt (Depot 2347770)
+# 核心清单已包含全部 prefabs, 这里只需地图 VPK
+game/csgo/maps/de_inferno.vpk
