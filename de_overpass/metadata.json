@@ -1,10 +1,10 @@
 ﻿{
-    "name":  "Overpass",
-    "updated":  "2026-10-06",
-    "size_mb":  250,
-    "required":  false,
-    "filelist":  [
-                     "game/csgo/maps/de_overpass.vpk"
-                 ],
-    "depot":  2347770
+    "name": "Overpass",
+    "updated": "2026-10-11",
+    "size_mb": 250,
+    "required": false,
+    "filelist": [
+        "game/csgo/maps/de_overpass.vpk"
+    ],
+    "depot": 2347770
 }

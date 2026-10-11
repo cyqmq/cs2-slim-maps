@@ -1,10 +1,10 @@
 ﻿{
-    "name":  "Vertigo",
-    "updated":  "2026-10-06",
-    "size_mb":  250,
-    "required":  false,
-    "filelist":  [
-                     "game/csgo/maps/de_vertigo.vpk"
-                 ],
-    "depot":  2347770
+    "name": "Vertigo",
+    "updated": "2026-10-11",
+    "size_mb": 250,
+    "required": false,
+    "filelist": [
+        "game/csgo/maps/de_vertigo.vpk"
+    ],
+    "depot": 2347770
 }

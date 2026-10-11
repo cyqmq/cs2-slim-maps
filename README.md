@@ -7,16 +7,16 @@ CS2 Slim 服务端的**地图组件仓库**（选配组件）。
 
 | 地图 | 组件目录 | filelist 片段 | 预构建包 |
 |------|----------|---------------|----------|
-| Dust II | `de_dust2`（核心，主仓库自带） | `game/csgo/maps/de_dust2.vpk` | 无 |
+| Dust II | `de_dust2`（核心，主仓库自带） | `game/csgo/maps/de_dust2.vpk` | 无（核心包内置） |
 | Mirage | `de_mirage` | `game/csgo/maps/de_mirage.vpk` | [de_mirage.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_mirage.zip) |
 | Inferno | `de_inferno` | `game/csgo/maps/de_inferno.vpk` | [de_inferno.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_inferno.zip) |
-| Ancient | `de_ancient` | `game/csgo/maps/de_ancient.vpk` | 无 |
-| Anubis | `de_anubis` | `game/csgo/maps/de_anubis.vpk` | 无 |
-| Cache | `de_cache` | `game/csgo/maps/de_cache.vpk` | 无 |
-| Nuke | `de_nuke` | `game/csgo/maps/de_nuke.vpk` | 无 |
-| Overpass | `de_overpass` | `game/csgo/maps/de_overpass.vpk` | 无 |
-| Train | `de_train` | `game/csgo/maps/de_train.vpk` | 无 |
-| Vertigo | `de_vertigo` | `game/csgo/maps/de_vertigo.vpk` | 无 |
+| Ancient | `de_ancient` | `game/csgo/maps/de_ancient.vpk` | [de_ancient.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_ancient.zip) |
+| Anubis | `de_anubis` | `game/csgo/maps/de_anubis.vpk` | [de_anubis.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_anubis.zip) |
+| Cache | `de_cache` | `game/csgo/maps/de_cache.vpk` | [de_cache.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_cache.zip) |
+| Nuke | `de_nuke` | `game/csgo/maps/de_nuke.vpk` | [de_nuke.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_nuke.zip) |
+| Overpass | `de_overpass` | `game/csgo/maps/de_overpass.vpk` | [de_overpass.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_overpass.zip) |
+| Train | `de_train` | `game/csgo/maps/de_train.vpk` | [de_train.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_train.zip) |
+| Vertigo | `de_vertigo` | `game/csgo/maps/de_vertigo.vpk` | [de_vertigo.zip](https://github.com/cyqmq/cs2-slim-maps/releases/latest/download/de_vertigo.zip) |
 
 ## 使用方法
 
@@ -73,7 +73,7 @@ python cs2slim.py prebuilt --config slim.yaml
 
 ## Release
 
-- **v1.0.0**：`de_mirage.zip`、`de_inferno.zip`（预构建地图包）
+- **v1.0.0**：9 个竞技地图预构建包已全部可用——`de_mirage.zip`、`de_inferno.zip`、`de_ancient.zip`、`de_anubis.zip`、`de_cache.zip`、`de_nuke.zip`、`de_overpass.zip`、`de_train.zip`、`de_vertigo.zip`
 
 ## 组件格式
 
